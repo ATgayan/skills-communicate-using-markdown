@@ -35,4 +35,13 @@ app.listen(PORT, () => {
 ```
 
 
+# My To-Do List
+
+- [ ] Learn Markdown basics
+- [ ] Create a README for my project
+- [x] Set up local Node.js server
+- [ ] Build Express API routes
+
+
+
 
